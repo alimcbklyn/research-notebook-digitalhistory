@@ -1,0 +1,25 @@
+# Markdown_Mod1Ex1_ALM
+The assignment is to write 200-500 words on why you're taking the class, hopes/goals for it, desired digital experience and previous digital experience. 
+
+## Why I'm Here
+Why am I in Brooklyn, you ask? 
+_In the County of Kings, in NYC?_
+![Brooklyn Bridge image](https://pixabay.com/static/uploads/photo/2015/05/15/14/45/brooklyn-bridge-768668_960_720.jpg "Brooklyn")
+
+Oh, you mean *here,* as in this class. Well...
+
+- Teaching and taking DH-related courses is fun, and I'd like to expand my repertoire toward some of the topics on the syllabus. (Don't worry, @electricarchaeo--I'm not a spy!)
+
+## Digital Experience 
+### (Hopeful vs Previous)
+- I would like to become more comfortable working with data: collecting , cleaning, experimenting with it.
+- I want to try some new (to me) digital tools that work with text (as opposed to images), and doing that in a history-related context sounds appealing.
+- The "sandbox" nature of the exercises and ongoing theme of experimentation are a nice augment to some of the other work I've been doing.  
+
+My previous digital experience is in graphic design and scholarly communications (blogging, social media, writing for the public, Commons online communities, WordPress site building). I worked as a Digital Fellow at CUNY for three years, attended MSUdai, and am working on several digital projects related to Byzantine art history and archaeology. 
+
+> There's nothing like a Byzantine rock-cut church to make digital history exciting. This is one of my dissertation research subjects, located  in Turkey's Ihlara Valley. 
+
+![Rock-cut architecture](http://documentingcappadocia.newmedialab.cuny.edu/wp-content/uploads/2015/01/EgriTas_Ihlara_LoRes_Capp13_0943.jpg "Eğritaş Church in the Ihlara Valley")
+
+I'm already sold on the idea of working both in and beyond the ivory tower because, frankly, the most satisfacting aspects of my work have been greatly enhanced by the colleagues and friends I've made and maintained online. You *could* say that what I'd really like to get out of this class is to finish grad school with digital skills that make my research dreams a realistic possibility. I love doing project-based work, and digital scholarship allows me to think more 'three-dimensionally' in how I share that research.
